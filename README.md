@@ -8,9 +8,10 @@ that wants their post removed can contact me by opening a pull request.
 ## Requirements
 
 - Geckodriver on PATH
-- Gems
+- Install gems with bundle
     ```sh
-    $ gem install selenium-webdriver nokogiri reverse_markdown open-uri fileutils digest
+    $ gem install bundler
+    $ bundle install
     ```
 
 ## Usage
