@@ -15,4 +15,4 @@ that wants their post removed can contact me by opening a pull request.
 
 ## Usage
 
-Run `ruby scrap.rb` and enter a web.archive.org valid URL, the resource will be saved on posts/domain/post_name
+Run `ruby scrap.rb` and enter a valid URL, the resource will be saved on posts/domain/post_name
