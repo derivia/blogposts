@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
 gem 'selenium-webdriver'
-gem 'chromedriver-helper'
+gem 'nokogiri'
+gem 'reverse_markdown'
